@@ -1,7 +1,7 @@
-# Salary Analysis Project
+# Grade Analysis Project
 
 ## Description
-This project analyzes a dataset containing employee salary data.
+This project analyzes a dataset containing student grade data.
 It performs:
 - Data cleaning
 - Duplicate removal
